@@ -1,7 +1,7 @@
 export class Info {
 
   name: string        = 'Pedro Santana';
-  age: number         = 24;
+  age: number         = 26;
   nationality: string = 'Brazilian';
   university: string  = 'Instituto Federal do Maranhão - IFMA', "ETE - Pedro Muniz Falção";
   occupation: string  = 'telecommunications technician';
@@ -23,6 +23,6 @@ export class Social {
   website: string   = 'Not yet...';
   instagram: string = '@PedroPSSantana';
   twitter: string   = '@PedroPSSantana'
-  discord: string   = 'PS#9328';
+  discord: string   = 'PedroPSSantana#9328';
 
 }
